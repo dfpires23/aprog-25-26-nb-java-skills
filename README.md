@@ -21,10 +21,6 @@ Utiliza a seguinte convenção para manter consistência:
 - **test** → Adição ou alteração de testes  
 - **chore** → Tarefas gerais (build, configs, dependências)
 
-## Organização e Fluxo de Trabalho
-
-Para manter o repositório organizado e facilitar a evolução do projeto, recomenda-se que cada melhoria ou correção seja iniciada a partir de uma **Issue** e desenvolvida numa **branch própria**. Este fluxo permite associar Pull Requests às tarefas, melhorar o histórico das alterações e aproximar o trabalho das práticas usadas em projetos profissionais.
-
 ## Conclusão
 
 Bom treino com Java! 🎉  
